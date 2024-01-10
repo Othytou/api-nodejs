@@ -1,0 +1,252 @@
+[
+    {
+        "id": 1,
+        "name": "The Shawshank Redemption",
+        "year": 1994
+    },
+    {
+        "id": 2,
+        "name": "The Godfather",
+        "year": 1972
+    },
+    {
+        "id": 3,
+        "name": "The Godfather: Part II",
+        "year": 1974
+    },
+    {
+        "id": 4,
+        "name": "The Dark Knight",
+        "year": 2008
+    },
+    {
+        "id": 5,
+        "name": "Pulp Fiction",
+        "year": 1994
+    },
+    {
+        "id": 6,
+        "name": "Schindler's List",
+        "year": 1993
+    },
+    {
+        "id": 7,
+        "name": "The Lord of the Rings: The Return of the King",
+        "year": 2003
+    },
+    {
+        "id": 8,
+        "name": "12 Angry Men",
+        "year": 1957
+    },
+    {
+        "id": 9,
+        "name": "Fight Club",
+        "year": 1999
+    },
+    {
+        "id": 10,
+        "name": "Forrest Gump",
+        "year": 1994
+    },
+    {
+        "id": 11,
+        "name": "Inception",
+        "year": 2010
+    },
+    {
+        "id": 12,
+        "name": "The Matrix",
+        "year": 1999
+    },
+    {
+        "id": 13,
+        "name": "The Empire Strikes Back",
+        "year": 1980
+    },
+    {
+        "id": 14,
+        "name": "One Flew Over the Cuckoo's Nest",
+        "year": 1975
+    },
+    {
+        "id": 15,
+        "name": "Goodfellas",
+        "year": 1990
+    },
+    {
+        "id": 16,
+        "name": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": 2001
+    },
+    {
+        "id": 17,
+        "name": "Seven Samurai",
+        "year": 1954
+    },
+    {
+        "id": 18,
+        "name": "The Silence of the Lambs",
+        "year": 1991
+    },
+    {
+        "id": 19,
+        "name": "Se7en",
+        "year": 1995
+    },
+    {
+        "id": 20,
+        "name": "The Usual Suspects",
+        "year": 1995
+    },
+    {
+        "id": 21,
+        "name": "The Lion King",
+        "year": 1994
+    },
+    {
+        "id": 22,
+        "name": "Saving Private Ryan",
+        "year": 1998
+    },
+    {
+        "id": 23,
+        "name": "The Lord of the Rings: The Two Towers",
+        "year": 2002
+    },
+    {
+        "id": 24,
+        "name": "Spirited Away",
+        "year": 2001
+    },
+    {
+        "id": 25,
+        "name": "City of God",
+        "year": 2002
+    },
+    {
+        "id": 26,
+        "name": "Life Is Beautiful",
+        "year": 1997
+    },
+    {
+        "id": 27,
+        "name": "It's a Wonderful Life",
+        "year": 1946
+    },
+    {
+        "id": 28,
+        "name": "Interstellar",
+        "year": 2014
+    },
+    {
+        "id": 29,
+        "name": "Léon: The Professional",
+        "year": 1994
+    },
+    {
+        "id": 30,
+        "name": "The Green Mile",
+        "year": 1999
+    },
+    {
+        "id": 31,
+        "name": "American History X",
+        "year": 1998
+    },
+    {
+        "id": 32,
+        "name": "Psycho",
+        "year": 1960
+    },
+    {
+        "id": 33,
+        "name": "Gladiator",
+        "year": 2000
+    },
+    {
+        "id": 34,
+        "name": "The Pianist",
+        "year": 2002
+    },
+    {
+        "id": 35,
+        "name": "The Departed",
+        "year": 2006
+    },
+    {
+        "id": 36,
+        "name": "The Intouchables",
+        "year": 2011
+    },
+    {
+        "id": 37,
+        "name": "Whiplash",
+        "year": 2014
+    },
+    {
+        "id": 38,
+        "name": "The Prestige",
+        "year": 2006
+    },
+    {
+        "id": 39,
+        "name": "Apocalypse Now",
+        "year": 1979
+    },
+    {
+        "id": 40,
+        "name": "Memento",
+        "year": 2000
+    },
+    {
+        "id": 41,
+        "name": "The Great Dictator",
+        "year": 1940
+    },
+    {
+        "id": 42,
+        "name": "The Shining",
+        "year": 1980
+    },
+    {
+        "id": 43,
+        "name": "The Lives of Others",
+        "year": 2006
+    },
+    {
+        "id": 44,
+        "name": "Paths of Glory",
+        "year": 1957
+    },
+    {
+        "id": 45,
+        "name": "Django Unchained",
+        "year": 2012
+    },
+    {
+        "id": 46,
+        "name": "WALL·E",
+        "year": 2008
+    },
+    {
+        "id": 47,
+        "name": "Sunset Boulevard",
+        "year": 1950
+    },
+    {
+        "id": 48,
+        "name": "Witness for the Prosecution",
+        "year": 1957
+    },
+    {
+        "id": 49,
+        "name": "Joker",
+        "year": 2019
+    },
+    {
+        "id": 50,
+        "name": "The Irishman",
+        "year": 2019
+    }
+]
