@@ -1,12 +1,12 @@
 module.exports = function (app) {
     const path = require('path');
-
+    // GET all moveis name from local database in list format
     app.get('/movies', (req, res) => {
         const filePath = path.join(__dirname, '..', 'data', 'movies.json');
         try {
             const movies = require(filePath);
             const buttons = movies.map(movie => {
-                const encodedName = encodeURIComponent(movie.name); // Encode le nom du film en format URI
+                const encodedName = encodeURIComponent(movie.name); 
                 return `<li><a href="/movies/${encodedName}">${movie.name}</a></li>`;
             });
     

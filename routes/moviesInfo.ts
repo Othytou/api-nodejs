@@ -6,6 +6,7 @@ const dotenv = require('dotenv');
 dotenv.config();
 
 module.exports = function (app) {
+    // GET all movies with the contain name and their infos from Themoviedb API
     app.get('/movies/:movieName', (req, res) => {
         const movieName = req.params.movieName;
         const apiUrl = `https://api.themoviedb.org/3/search/movie?query=${movieName}&include_adult=false`;
