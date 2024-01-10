@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+</head>
+
+<body style="text-align: center;">
+    <h1>Hello</h1>
+    <div>
+        <button id="goToMovies">Voir les Films</button>
+        <button id="goToActors">Voir les Acteurs</button>
+    </div>
+    <script>
+        document.getElementById('goToMovies').addEventListener('click', function () {
+            window.location.href = "/movies";
+        });
+
+        document.getElementById('goToActors').addEventListener('click', function () {
+            window.location.href = "/actors";
+        });
+    </script>
+</body>
+
+
+</html>
