@@ -45,7 +45,6 @@ Pour utiliser cette API, vous devez obtenir un token API TMDb. Voici comment le 
 
    ```
    npm install
-
    ```
 
 Cela installera toutes les dépendances répertoriées dans le fichier package.json.
@@ -53,7 +52,6 @@ Cela installera toutes les dépendances répertoriées dans le fichier package.j
 ## Exécution de l'Application
 
 Une fois les dépendances installées, vous pouvez exécuter l'application en utilisant la commande suivante :
-`   node app.ts
-  `
+`node app.ts`
 
 L'application sera exécutée sur le port par défaut 3000, mais vous pouvez le personnaliser dans le fichier app.ts si nécessaire.
