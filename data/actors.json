@@ -1,0 +1,247 @@
+[
+    {
+        "name": "Joaquin Phoenix",
+        "gender": "2",
+        "knows_movie": {"id": 11}
+    },
+    {
+        "name": "Tim Robbins",
+        "gender": "2",
+        "knows_movie": {"id": 1}
+    },
+    {
+        "name": "Al Pacino",
+        "gender": "2",
+        "knows_movie": {"id": 2}
+    },
+    {
+        "name": "Christian Bale",
+        "gender": "2",
+        "knows_movie": {"id": 4}
+    },
+    {
+        "name": "John Travolta",
+        "gender": "2",
+        "knows_movie": {"id": 5}
+    },
+    {
+        "name": "Liam Neeson",
+        "gender": "2",
+        "knows_movie": {"id": 6}
+    },
+    {
+        "name": "Elijah Wood",
+        "gender": "2",
+        "knows_movie": {"id": 7}
+    },
+    {
+        "name": "Henry Fonda",
+        "gender": "2",
+        "knows_movie": {"id": 8}
+    },
+    {
+        "name": "Edward Norton",
+        "gender": "2",
+        "knows_movie": {"id": 9}
+    },
+    {
+        "name": "Tom Hanks",
+        "gender": "2",
+        "knows_movie": {"id": 10}
+    },
+    {
+        "name": "Keanu Reeves",
+        "gender": "2",
+        "knows_movie": {"id": 12}
+    },
+    {
+        "name": "Mark Hamill",
+        "gender": "2",
+        "knows_movie": {"id": 13}
+    },
+    {
+        "name": "Jack Nicholson",
+        "gender": "2",
+        "knows_movie": {"id": 14}
+    },
+    {
+        "name": "Ray Liotta",
+        "gender": "2",
+        "knows_movie": {"id": 15}
+    },
+    {
+        "name": "Samuel L. Jackson",
+        "gender": "2",
+        "knows_movie": {"id": 16}
+    },
+    {
+        "name": "Toshiro Mifune",
+        "gender": "2",
+        "knows_movie": {"id": 17}
+    },
+    {
+        "name": "Jodie Foster",
+        "gender": "1",
+        "knows_movie": {"id": 18}
+    },
+    {
+        "name": "Morgan Freeman",
+        "gender": "2",
+        "knows_movie": {"id": 19}
+    },
+    {
+        "name": "Gabriel Byrne",
+        "gender": "2",
+        "knows_movie": {"id": 20}
+    },
+    {
+        "name": "Matthew Broderick",
+        "gender": "2",
+        "knows_movie": {"id": 21}
+    },
+    {
+        "name": "Tom Hanks",
+        "gender": "2",
+        "knows_movie": {"id": 22}
+    },
+    {
+        "name": "Nicolas Cage",
+        "gender": "2",
+        "knows_movie": {"id": 23}
+    },
+    {
+        "name": "Daveigh Chase",
+        "gender": "1",
+        "knows_movie": {"id": 24}
+    },
+    {
+        "name": "Alexandre Rodrigues",
+        "gender": "2",
+        "knows_movie": {"id": 25}
+    },
+    {
+        "name": "Roberto Benigni",
+        "gender": "2",
+        "knows_movie": {"id": 26}
+    },
+    {
+        "name": "James Stewart",
+        "gender": "2",
+        "knows_movie": {"id": 27}
+    },
+    {
+        "name": "Matthew McConaughey",
+        "gender": "2",
+        "knows_movie": {"id": 28}
+    },
+    {
+        "name": "Jean Reno",
+        "gender": "2",
+        "knows_movie": {"id": 29}
+    },
+    {
+        "name": "Tom Hanks",
+        "gender": "2",
+        "knows_movie": {"id": 30}
+    },
+    {
+        "name": "Edward Norton",
+        "gender": "2",
+        "knows_movie": {"id": 31}
+    },
+    {
+        "name": "Anthony Perkins",
+        "gender": "2",
+        "knows_movie": {"id": 32}
+    },
+    {
+        "name": "Russell Crowe",
+        "gender": "2",
+        "knows_movie": {"id": 33}
+    },
+    {
+        "name": "Adrien Brody",
+        "gender": "2",
+        "knows_movie": {"id": 34}
+    },
+    {
+        "name": "Leonardo DiCaprio",
+        "gender": "2",
+        "knows_movie": {"id": 35}
+    },
+    {
+        "name": "François Cluzet",
+        "gender": "2",
+        "knows_movie": {"id": 36}
+    },
+    {
+        "name": "Miles Teller",
+        "gender": "2",
+        "knows_movie": {"id": 37}
+    },
+    {
+        "name": "Christian Bale",
+        "gender": "2",
+        "knows_movie": {"id": 38}
+    },
+    {
+        "name": "Martin Sheen",
+        "gender": "2",
+        "knows_movie": {"id": 39}
+    },
+    {
+        "name": "Guy Pearce",
+        "gender": "2",
+        "knows_movie": {"id": 40}
+    },
+    {
+        "name": "Charles Chaplin",
+        "gender": "2",
+        "knows_movie": {"id": 41}
+    },
+    {
+        "name": "Jack Nicholson",
+        "gender": "2",
+        "knows_movie": {"id": 42}
+    },
+    {
+        "name": "Ulrich Mühe",
+        "gender": "2",
+        "knows_movie": {"id": 43}
+    },
+    {
+        "name": "Kirk Douglas",
+        "gender": "2",
+        "knows_movie": {"id": 44}
+    },
+    {
+        "name": "Jamie Foxx",
+        "gender": "2",
+        "knows_movie": {"id": 45}
+    },
+    {
+        "name": "Ben Burtt",
+        "gender": "2",
+        "knows_movie": {"id": 46}
+    },
+    {
+        "name": "William Holden",
+        "gender": "2",
+        "knows_movie": {"id": 47}
+    },
+    {
+        "name": "Tyrone Power",
+        "gender": "2",
+        "knows_movie": {"id": 48}
+    },
+    {
+        "name": "Joaquin Phoenix",
+        "gender": "2",
+        "knows_movie": {"id": 49}
+    },
+    {
+        "name": "Robert De Niro",
+        "gender": "2",
+        "knows_movie": {"id": 50}
+    }
+]

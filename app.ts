@@ -1,25 +1,22 @@
 const express = require('express')
-
-const app = express()
-
-const moviesList = require('./routes/moviesList.ts')
-const moviesInfo = require('./routes/moviesInfo.ts')
-const actor = require('./routes/actor.ts')
-const actorInfo = require('./routes/actorInfo.ts')
+const moviesList = require('./routes/moviesList.ts');
+const moviesInfo = require('./routes/moviesInfo.ts');
+const actorsList = require('./routes/actorsList.ts');
+const actorsInfo = require('./routes/actorsInfo.ts');
 
 const port = 3000
+const app = express()
 
 app.get('/', (req, res) => {
-    res.send('URL to api get : \n/movies to movies list, \n/actor to get actor data')
-})
+    res.sendFile(__dirname + '/pages/index.html');
+    
+});
 
 moviesList(app)
-// team(app)
-// driverNumber(app)
-// driverInfo(app)
+moviesInfo(app)
+actorsList(app)
+actorsInfo(app)
 
 app.listen(port, () => {
     console.log(`Listening at http://localhost:${port}`)
 })
-
-// nestjs, Prima, react, angular (signal)
